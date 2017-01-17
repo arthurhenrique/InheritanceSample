@@ -1,0 +1,2 @@
+# InheritanceSample
+Herança Java
